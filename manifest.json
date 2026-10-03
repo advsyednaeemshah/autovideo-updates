@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "version": "2.0.1",
+    "url": "https://github.com/advsyednaeemshah/autovideo-updates/releases/download/v2.0.1/AutoVideoBuilder_v2.zip",
+    "sha256": "b28309509b95d27f4940d146dae157701d57f69dce68dda779aab052d0e07a6c",
+    "size": 352291310,
+    "release_notes": "Critical bug fix: App no longer crashes or disappears when clicking Analyze or uploading Voiceover audio.",
+    "released_at": "2026-10-03T09:12:22.470276+00:00"
+  },
+  "signature": "RL5L5rjDxdppnmlNHDgkXZRxilUyN8+7EQGStKhRHzBY7OWgerUox74C+gm2w9fPxa6skKGPRkgbK4s6jD51Ag=="
+}
