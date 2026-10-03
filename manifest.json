@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "2.0.2",
-    "url": "https://github.com/advsyednaeemshah/autovideo-updates/releases/download/v2.0.2/AutoVideoBuilder_v2_0_2.zip",
-    "sha256": "3773e2df4c541824d5d38101386bbba5552feed1971a93e51528ea487bfb176e",
-    "size": 353140478,
-    "release_notes": "Critical Fix: Whisper Diagnostics and App Crash resolved. Restart Button added.",
-    "released_at": "2026-10-03T10:20:42.792803+00:00"
+    "version": "2.0.3",
+    "url": "https://github.com/advsyednaeemshah/autovideo-updates/releases/download/v2.0.3/AutoVideoBuilder_v2_0_3.zip",
+    "sha256": "9d5ffccc2d77d8c98c4e81577ec553ec122c2fefaaeb4cdcf9b4c0debbbb9632",
+    "size": 342024990,
+    "release_notes": "CRITICAL SECURITY UPDATE: Anti-tamper locks enabled. 100% Native C++ Engine protection.",
+    "released_at": "2026-10-03T11:19:21.080264+00:00"
   },
-  "signature": "VdNdmgfM4mRnZJZA4lldpC090w/TMTQqtrNPn09Qm7E9Qf2i9J8aci/f/q24mAGFiBGsC9mUjCJaH8CAiFKLCA=="
+  "signature": "16EYsB170KQxdI7uh7p25ha8rDGII6VZiu0NCqu/XNq19OUxc5sFCAhnNK3xpb1bpcnj61dECCCXwAfuAD7kAg=="
 }
