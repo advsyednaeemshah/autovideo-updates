@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "2.0.3",
-    "url": "https://github.com/advsyednaeemshah/autovideo-updates/releases/download/v2.0.3/AutoVideoBuilder_v2_0_3.zip",
-    "sha256": "9d5ffccc2d77d8c98c4e81577ec553ec122c2fefaaeb4cdcf9b4c0debbbb9632",
-    "size": 342024990,
-    "release_notes": "CRITICAL SECURITY UPDATE: Anti-tamper locks enabled. 100% Native C++ Engine protection.",
-    "released_at": "2026-10-03T11:38:33.790290+00:00"
+    "version": "2.0.4",
+    "url": "https://github.com/advsyednaeemshah/autovideo-updates/releases/download/v2.0.4/AutoVideoBuilder_v2_0_4.zip",
+    "sha256": "549db712db79c37e00354a64e53c565b9e4475b0746bb03e5b64750441bef600",
+    "size": 342433220,
+    "release_notes": "Seamless In-App Update Engine, Live Download Stats, Auto Desktop Shortcut, and New Project / Restart Button.",
+    "released_at": "2026-10-03T13:14:34.364559+00:00"
   },
-  "signature": "zjcKVuFm1Md257jlD6lxp9WGNrmWDWKUanYFJ32u7BUxI7otmti3Vnzk0Ye2jeneRbf512WFACEs9wGISzMpDg=="
+  "signature": "KqwZARU73PQGENx3SfMJFITdTMTtrfao52aBp8M76UeyVx0Zt0oPzr8tkwbps159eNyxl6x0Pxv5l6hcS6urBg=="
 }
