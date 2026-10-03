@@ -5,7 +5,7 @@
     "sha256": "9d5ffccc2d77d8c98c4e81577ec553ec122c2fefaaeb4cdcf9b4c0debbbb9632",
     "size": 342024990,
     "release_notes": "CRITICAL SECURITY UPDATE: Anti-tamper locks enabled. 100% Native C++ Engine protection.",
-    "released_at": "2026-10-03T11:19:21.080264+00:00"
+    "released_at": "2026-10-03T11:38:33.790290+00:00"
   },
-  "signature": "16EYsB170KQxdI7uh7p25ha8rDGII6VZiu0NCqu/XNq19OUxc5sFCAhnNK3xpb1bpcnj61dECCCXwAfuAD7kAg=="
+  "signature": "zjcKVuFm1Md257jlD6lxp9WGNrmWDWKUanYFJ32u7BUxI7otmti3Vnzk0Ye2jeneRbf512WFACEs9wGISzMpDg=="
 }
