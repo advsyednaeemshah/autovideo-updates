@@ -1,11 +1,11 @@
 {
   "payload": {
     "version": "2.0.4",
-    "url": "https://github.com/advsyednaeemshah/autovideo-updates/releases/download/v2.0.4/AutoVideoBuilder_v2_0_4.zip",
-    "sha256": "e9feba4b2cd7e725b6b2787950a13758367f93868a082fd09b76e19fce7cc212",
-    "size": 354040808,
-    "release_notes": "Fixed: App window now opens instantly\nFixed: Auto-update check runs in background thread - no more frozen launcher\nFixed: Trial mode crash after video render (is_trial attribute error)\nImproved: Update dialog shows real MB/speed progress\nImproved: Pure Python extraction - no CMD popups during update",
-    "released_at": "2026-10-03T20:45:07Z"
+    "url": "https://github.com/advsyednaeemshah/autovideo-updates/releases/download/v2.0.4/AutoVideoBuilder_v2.0.4.zip",
+    "sha256": "65249e8d1482c8601817e228ced8026709c2a22fb313d189c89a6455cd6c54e9",
+    "size": 493939190,
+    "release_notes": "AutoVideoBuilder Studio V2 v2.0.4 Production Release",
+    "released_at": "2026-10-04T17:54:42.585249+00:00"
   },
-  "signature": "SS7zGVaLqHMcqaGIP3CQa70T1V69a2p/JyFjiN5/bzagmcLw9c34A6M/0jNhdmzFudv/slFEXKnk1eUUdiYZBg=="
+  "signature": "qOolI68YmydM/v63laSRLw524wTU4mTf4f36zExf1acioXcB9KKYH8JAEl2YlJwm+BhrtRtmVL6YDm+ED0TUCQ=="
 }
